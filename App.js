@@ -21,7 +21,7 @@ export default function App() {
               itemStyle: { marginVertical: 10 },
             }}
 
-      >
+      > 
 
       {
         DrawerItems.map(drawer=>
